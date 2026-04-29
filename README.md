@@ -46,6 +46,6 @@
 
 ## Contact
 
-- Email: 본인이메일
-- GitHub: https://github.com/본인깃허브아이디
-- Portfolio: https://본인깃허브아이디.github.io
+- Email: sunhu0104@naver.com
+- GitHub: https://github.com/sunhupark
+- Portfolio: https://sunhupark.github.io
